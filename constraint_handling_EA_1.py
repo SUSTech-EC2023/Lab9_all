@@ -1,4 +1,4 @@
-# 这是一个用于演示如何处理约束的演化算法的示例，并非是最优的解决方案。
+# 这是一个用于演示无约束处理的演化算法的示例，并非是最优的解决方案。
 
 import numpy as np
 import matplotlib.pyplot as plt
